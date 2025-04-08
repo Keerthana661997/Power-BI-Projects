@@ -1,2 +1,3 @@
-A collection of data visualization projects using Power BI, Tableau, and other tools. This repository showcases various dashboards, reports, and interactive visualizations created from real-world data, aimed at driving business insights and data-driven decision-making
+# Business Case Studies & Data Visualizations
 
+Welcome to my repository of **Business Case Studies** and **Data Visualizations**! This repository includes a collection of real-world business analysis projects and interactive data visualizations. It showcases my skills in data analysis, project management, and business intelligence tools like **Power BI**, **Tableau**, **SQL**, and **Excel**.
