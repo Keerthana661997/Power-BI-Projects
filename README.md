@@ -17,5 +17,3 @@ This repository contains a Power BI dashboard used for analyzing and visualizing
 2. Open the file in Power BI Desktop.
 3. Review the dashboard, explore filters, and view insights.
 
-## License
-This project is licensed under the MIT License.
