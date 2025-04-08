@@ -2,8 +2,8 @@
 This Power BI dashboard was created based on the tutorial by Maven Analytics. The tutorial provided guidance on creating a sales performance dashboard using Power BI. This repository contains a Power BI dashboard used for analyzing and visualizing sales data for a autombile company.
 
 ## Technologies Used
--Power BI
--CSV Files
+- Power BI
+- CSV Files
 
 ## Features
 - **Excecutive Summary**: Overview of  total orders, revenue, profit and returns.
