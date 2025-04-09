@@ -1,3 +1,1 @@
-# Business Case Studies & Data Visualizations
-
-Welcome to my repository of **Business Case Studies** and **Data Visualizations**! This repository includes a collection of real-world business analysis projects and interactive data visualizations. It showcases my skills in data analysis, project management, and business intelligence tools like **Power BI**, **Tableau**, **SQL**, and **Excel**.
+This repository contains a **Power BI dashboard** for analyzing **sales performance**. The dashboard visualizes key metrics like total sales, sales by region, top-performing products, and sales trends over time. It is designed to help businesses monitor their sales performance and identify growth opportunities.
